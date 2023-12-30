@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/welly-frontend-test/static/css/main.c98b1aa1.css",
+    "main.js": "/welly-frontend-test/static/js/main.5dcba3c3.js",
+    "static/js/787.624f3bca.chunk.js": "/welly-frontend-test/static/js/787.624f3bca.chunk.js",
+    "index.html": "/welly-frontend-test/index.html",
+    "main.c98b1aa1.css.map": "/welly-frontend-test/static/css/main.c98b1aa1.css.map",
+    "main.5dcba3c3.js.map": "/welly-frontend-test/static/js/main.5dcba3c3.js.map",
+    "787.624f3bca.chunk.js.map": "/welly-frontend-test/static/js/787.624f3bca.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c98b1aa1.css",
+    "static/js/main.5dcba3c3.js"
+  ]
+}
